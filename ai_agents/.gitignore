@@ -1,7 +1,0 @@
-.env
-venv
-venv_linux
-__pycache__
-chroma_db
-.gradio
-.langgraph_api
