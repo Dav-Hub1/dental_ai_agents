@@ -3,4 +3,4 @@ Kommo CRM for managing potential customers.
 n8n for creating AI Agents and getting APIs.
 Pydantic AI to get the project robust.
 
-AI Agents got from Colin.
+AI Agents got from Cole Medin.
